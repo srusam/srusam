@@ -11,24 +11,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS"/> </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="images/bootstrap-svgrepo-com.svg" width="50" height="50" alt="Bootstrap"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="images/bootstrap-svgrepo-com.svg" width="50" height="50" alt="Bootstrap"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React.Js"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" height="50" alt="Django"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="50" height="50" alt="Flask"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit.svg" width="50" height="50" alt="Streamlit"/> </a>
 </p>
  
 
-   
-
-   
-  https://reactjs.org/
-    <img srcraw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg
-  </a>
-  https://www.djangoproject.com/
-    <img src="https://raw.githubusercontentlcranney/readme-generator/main/public/icons/skills/django-colored.svg
-  </a>
-  https://flask.palletsprojects.com/
-    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg
-  </a>
-  https://streamlit.io/
-    <img src="https://raw.githubusercontentlcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg
+  
+  
+    <img src="https://raw.githubusercontentlcranney/readme-generator/main/public/icons/skills/
   </a>
   https://www.mongodb.com/
     https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg
