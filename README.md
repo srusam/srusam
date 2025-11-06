@@ -16,20 +16,20 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="50" height="50" alt="Flask"/> </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="images/Streamlit.svg" width="50" height="50" alt="Streamlit"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="Streamlit"/> </a>
+  <a href="https://hygraph.com/" target="_blank" rel="noreferrer"><img src="images/cndxoL01.svg" width="50" height="50" alt="HyGraph"/> </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="images/GraphQL.svg" width="50" height="50" alt="GraphQL"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer"><img src="images/NLP.svg" width="50" height="50" alt="Natural Language Processing"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Named-entity_recognition" target="_blank" rel="noreferrer"><img src="images/nlp-ner-named-entity-1.svg" width="50" height="50" alt="Named Entity Recognition"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer"><img src="images/LLM.svg" width="50" height="50" alt="Large Language Models"/> </a>
+  <a href="https://faiss.ai/index.html" target="_blank" rel="noreferrer"><img src="images/FAISS.svg" width="50" height="50" alt="FAISS"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Prompt_engineering" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/main/assets/prompt-engineering-logo.svg" width="50" height="50" alt="Prompt Engineering"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)" target="_blank" rel="noreferrer"><img src="images/Finetuning.svg" width="50" height="50" alt="Finetuning"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Microsoft Azure"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="images/selenium-svgrepo-com.svg" width="50" height="50" alt="Selenium with Java"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="images/sql-server-icon.svg" width="50" height="50" alt="MS SQL"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="MS SQL"/> </a>
 </p>
- 
 
-
-  https://azure.microsoft.com/
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36"    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publiclls/aws-colored.svg
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="nt.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg
-  </a>
-  https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/iconssql-colored.svg
-  </a>
-  https://www.oracle.com/database/
-    <ttps://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg
-  </a>
-</p>
+Attributions:
+| <a href="https://www.flaticon.com/free-icons/nlp" title="nlp icons">Nlp icons created by Freepik - Flaticon</a> |
+<a href="https://www.flaticon.com/free-icons/large-language-model" title="large language model icons">Large language model icons created by LAFS - Flaticon</a>
