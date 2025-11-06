@@ -14,17 +14,13 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React.Js"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" height="50" alt="Django"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="50" height="50" alt="Flask"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit.svg" width="50" height="50" alt="Streamlit"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="images/Streamlit.svg" width="50" height="50" alt="Streamlit"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="Streamlit"/> </a>
 </p>
  
 
-  
-  
-    <img src="https://raw.githubusercontentlcranney/readme-generator/main/public/icons/skills/
-  </a>
-  https://www.mongodb.com/
-    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg
-  </a>
+
   https://azure.microsoft.com/
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36"    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publiclls/aws-colored.svg
   </a>
