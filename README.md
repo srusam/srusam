@@ -27,8 +27,14 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Microsoft Azure"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="images/selenium-svgrepo-com.svg" width="50" height="50" alt="Selenium with Java"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="images/sql-server-icon.svg" width="50" height="50" alt="MS SQL"/> </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="MS SQL"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="Oracle"/> </a>
 </p>
+
+---------------------------------
+
+## Work Experience
+<a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="Capgemini"/> </a>
+
 
 Attributions:
 | <a href="https://www.flaticon.com/free-icons/nlp" title="nlp icons">Nlp icons created by Freepik - Flaticon</a> |
