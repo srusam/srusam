@@ -33,7 +33,8 @@
 ---------------------------------
 
 ## Work Experience
-<a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="Capgemini"/> </a>
+<a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="images/Capgemini_201x_logo.svg" width="250" height="250" alt="Capgemini"/> </a>
+<a href="https://www.mastek.com/" target="_blank" rel="noreferrer"><img src="images/Capgemini_201x_logo.svg" width="250" height="250" alt="Capgemini"/> </a>
 
 
 Attributions:
