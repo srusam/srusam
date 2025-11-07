@@ -33,9 +33,9 @@
 ---------------------------------
 
 ## Work Experience
-<a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="images/Capgemini_201x_logo.svg" width="250" height="250" alt="Capgemini"/> </a>
-<a href="https://www.mastek.com/" target="_blank" rel="noreferrer"><img src="images/MASTEK.NS_BIG.svg" width="250" height="250" alt="Mastek"/> </a>
-<a href="https://www.dabotics.com/" target="_blank" rel="noreferrer"><img src="images/Dabotics.svg" width="250" height="250" alt="Dabotics India Private Limited"/> </a>
+<a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="images/Capgemini_201x_logo.svg" width="200" height="250" alt="Capgemini"/> </a>
+<a href="https://www.mastek.com/" target="_blank" rel="noreferrer"><img src="images/MASTEK.NS_BIG.svg" width="200" height="200" alt="Mastek"/> </a>
+<a href="https://www.dabotics.com/" target="_blank" rel="noreferrer"><img src="images/Dabotics.svg" width="100" height="100" alt="Dabotics India Private Limited"/> </a>
 
 
 
