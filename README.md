@@ -36,9 +36,3 @@
 <a href="https://www.capgemini.com/in-en/" target="_blank" rel="noreferrer"><img src="images/Capgemini_201x_logo.svg" width="200" height="250" alt="Capgemini"/> </a>
 <a href="https://www.mastek.com/" target="_blank" rel="noreferrer"><img src="images/MASTEK.NS_BIG.svg" width="200" height="200" alt="Mastek"/> </a>
 <a href="https://www.dabotics.com/" target="_blank" rel="noreferrer"><img src="images/Dabotics.svg" width="100" height="100" alt="Dabotics India Private Limited"/> </a>
-
-
-
-Attributions:
-| <a href="https://www.flaticon.com/free-icons/nlp" title="nlp icons">Nlp icons created by Freepik - Flaticon</a> |
-<a href="https://www.flaticon.com/free-icons/large-language-model" title="large language model icons">Large language model icons created by LAFS - Flaticon</a>
