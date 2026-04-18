@@ -66,7 +66,7 @@
 
 ![](https://komarev.com/ghpvc/?username=srusam)
 
-![Snake animation](https://raw.githubusercontent.com/srusam/srusam/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/srusam/srusam/blob/output/github-snake-dark.svg)
 
 ## LeetCode
 
