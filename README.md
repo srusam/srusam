@@ -58,16 +58,37 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srusam&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srusam&show_icons=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=srusam&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srusam&show_icons=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srusam&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srusam&layout=compact&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srusam&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srusam&layout=compact" />
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srusam)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=srusam&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=srusam&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=srusam" />
+</picture>
 
-![](https://komarev.com/ghpvc/?username=srusam)
+![](https://komarev.com/ghpvc/?username=srusam&color=blueviolet)
 
-![snake gif](https://github.com/srusam/srusam/blob/output/github-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srusam/srusam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srusam/srusam/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/srusam/srusam/output/github-snake.svg" />
+</picture>
 
 ## LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Srushti_Sambare?theme=dark&font=Karma)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Srushti_Sambare?theme=dark&font=Karma" />
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Srushti_Sambare?theme=light&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/Srushti_Sambare" />
+</picture>
